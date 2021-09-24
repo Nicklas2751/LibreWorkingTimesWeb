@@ -10,10 +10,6 @@
   link: /changelog/
   new_window: false
   highlight: false
-- name: Contact
-  link: /contact/
-  new_window: false
-  highlight: false
 - name: User documentation
   link: "https://docs.libreworkingtimes.wiegandt.eu"
   new_window: true

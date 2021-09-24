@@ -68,10 +68,6 @@ defaults:
       path: "index.html"
     values:
       layout: "default"
-  - scope:
-      path: "contact.html"
-    values:
-      full_width: true
 
 
 jekyll-archives:
@@ -97,3 +93,4 @@ exclude:
 _select_data:
   social_icons:
     - Twitter
+    - GitHub
